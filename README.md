@@ -11,14 +11,14 @@
 Le **BAC Pro CIEL** signifie **Cybersécurité, Informatique et réseaux, Électronique**.  
 C'est une formation qui permet de :
 
-- ** réseaux informatiques** (Wi-Fi, Internet, etc.)
+- **Réseaux informatiques** (Wi-Fi, Internet, etc.)
 - **Programmer des systèmes électroniques**, comme des objets connectés, des robots, ou des cartes électroniques ( Raspberry Pi !)
 - **Protéger les systèmes informatiques** contre les cyberattaques (cybersécurité)
 
-### **Pourquoi c’est passionnant ?**
+### **Pourquoi ça peut vous interreser  ?**
 
-- Tu peux **programmer** des objets pour qu'ils fassent exactement ce que tu veux (robots, lumières, alarmes, etc.).
-- Tu comprends comment fonctionne le monde numérique autour de toi : Internet, smartphones, jeux vidéo, etc.
+- **programmation** des objets (robots, lumières, alarmes, etc.).
+- Comprendre comment fonctionne le monde numérique autour de toi : Internet, smartphones, jeux vidéo, etc.
 - C'est un secteur avec **beaucoup de débouchés** : technicien réseau, développeur, spécialiste en cybersécurité, etc.
 
 ---
