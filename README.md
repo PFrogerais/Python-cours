@@ -32,6 +32,12 @@ C'est une formation qui permet de :
 - Comprendre le lien entre le code et le matériel
 
 ---
+### **Matériel**
+- Raspberry Pi 400 (un par groupe ou par élève)
+- 1 LED Jaune par Raspberry Pi
+- 1 résistance de 87 Ω
+- Bread board
+- Fils de connexion (le câblage est déjà fait)
 
 ### **Déroulement de l’activité**
 
@@ -104,16 +110,8 @@ while True:
 
 
 
-"En BAC Pro CIEL, vous ferez ce genre de projets, mais avec des systèmes de plus en plus complexes : des réseaux, des robots, de la cybersécurité… et beaucoup d’expérimentations comme aujourd’hui !"
 
----
 
-### **Matériel**
-- Raspberry Pi 400 (un par groupe ou par élève)
-- 1 LED Jaune par Raspberry Pi
-- 1 résistance de 87 Ω
-- Bread board
-- Fils de connexion (le câblage est déjà fait par vous)
 
 ---
 
