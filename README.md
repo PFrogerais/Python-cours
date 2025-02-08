@@ -1,16 +1,14 @@
-# Python-cours
-
-
-
+---
+title: "Activité découverte python"
+author: "P. Frogerais"
+date: 2025-02-05
 ---
 
-## **Découverte du BAC Pro CIEL (5 min)**
 
 ### **Qu’est-ce que le BAC Pro CIEL ?**
 
-Le **BAC Pro CIEL** signifie **Cybersécurité, Informatique et réseaux, Électronique**.  
+Le **BAC Pro CIEL** signifie **Cybersécurité, Informatique et réseaux, Électronique**.
 C'est une formation qui permet de :
-
 - **Réseaux informatiques** (Wi-Fi, Internet, etc.)
 - **Programmer des systèmes électroniques**, comme des objets connectés, des robots, ou des cartes électroniques ( Raspberry Pi !)
 - **Protéger les systèmes informatiques** contre les cyberattaques (cybersécurité)
@@ -21,7 +19,6 @@ C'est une formation qui permet de :
 - Comprendre comment fonctionne le monde numérique autour de toi : Internet, smartphones, jeux vidéo, etc.
 - C'est un secteur avec **beaucoup de débouchés** : technicien réseau, développeur, spécialiste en cybersécurité, etc.
 
----
 
 ## **Défi : "Le Défi de la LED Magique" (20 min)**
 
@@ -31,7 +28,7 @@ C'est une formation qui permet de :
 - Programmer une LED avec un Raspberry Pi
 - Comprendre le lien entre le code et le matériel
 
----
+
 ### **Matériel**
 - Raspberry Pi 400 (un par groupe ou par élève)
 - 1 LED Jaune par Raspberry Pi
@@ -54,7 +51,6 @@ led.on()       # Allumer la LED
 
 - **Question bonus :** Que fait le code si tu remplaces `led.on()` par `led.off()` ?
 
----
 
 ### ⚡ **Défi 2 : Faire Clignoter la LED (10 min)**
 
@@ -76,7 +72,6 @@ while True:
 - **Challenge bonus :** Modifie la vitesse du clignotement (change la valeur de `sleep()`).
 - **Idée :** Essaie avec `0.2` pour un clignotement rapide.
 
----
 
 ### 🚀 **Super Défi : Le Code Secret (5 min)**
 
@@ -97,7 +92,7 @@ while True:
     sleep(2)  # Pause longue
 ```
 
----
+
 
 ### **Conclusion (5 min)**
 
@@ -105,13 +100,4 @@ while True:
     - Qu’est-ce qu’une boucle `while True` ?
     - Comment fait-on pour ralentir ou accélérer le clignotement ?
     - Que se passe-t-il si on change le chiffre `3` dans le dernier code ?
-
----
-
-
-
-
-
-
----
 
